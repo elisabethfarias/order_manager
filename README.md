@@ -14,7 +14,7 @@ _" Aplicativo mobile desenvolvido para o desafio da empresa Midia3. Com funçõe
 ```
   # Clone o repositório
 
-  git clone: 
+  git clone: https://github.com/elisabethfarias/order_manager
 
 
   # Navegue até a pasta e carregue as dependências
